@@ -1,0 +1,7 @@
+interface:
+  display_name: "高级家居详情页艺术指导"
+  short_description: "为家具与柜类商品规划高级、真实、可转化的电商详情页"
+  default_prompt: "使用 $furniture-detail-page-art-direction 为这款家具设计一套高级电商详情页。"
+
+policy:
+  allow_implicit_invocation: true
